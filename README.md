@@ -10,4 +10,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiag8&layout=compact&theme=highcontrast)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=holberton-system_engineering-devops&show_owner=true)](https://github.com/Sofiag8/holberton-system_engineering-devops)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=holberton-system_engineering-devops&show_owner=true&layout=compact&theme=highcontrast)](https://github.com/Sofiag8/holberton-system_engineering-devops)
