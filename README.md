@@ -7,7 +7,7 @@
 - 📫 You can find me on [Twitter](https://twitter.com/Sofiiagarca) or [Linkedin](https://www.linkedin.com/in/dianasofiagarciac/)
 
 
-<a href="https://github.com/Sofiag8/github-readme-stats">
+<a href="https://github.com/Sofiag8/Sofiag8">
   <img align="center" src="https://Sofiag8.vercel.app/api/pin/?username=Sofiag8&repo=Sofiag8" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
