@@ -12,8 +12,6 @@
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=AirBnB_clone_v3&show_owner=true&layout=compact&theme=highcontrast)](https://github.com/Sofiag8/AirBnB_clone_v3)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=printf&show_owner=true&layout=compact&theme=highcontrast)](https://github.com/steffanynaranjov/printf)
-
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=binary_trees&show_owner=true&layout=compact&theme=highcontrast)](https://github.com/Sofiag8/binary_trees)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=monty&show_owner=true&layout=compact&theme=highcontrast)](https://github.com/Sofiag8/monty)
