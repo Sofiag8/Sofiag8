@@ -12,6 +12,8 @@
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=AirBnB_clone_v3&show_owner=true&layout=compact&theme=dark)](https://github.com/Sofiag8/AirBnB_clone_v3)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=binary_trees&show_owner=true&layout=compact&theme=dark)](https://github.com/Sofiag8/binary_trees)
-
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=monty&show_owner=true&layout=compact&theme=dark)](https://github.com/Sofiag8/monty)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=holbertonschool-low_level_programming&show_owner=true&layout=compact&theme=dark)](https://github.com/Sofiag8/holbertonschool-low_level_programming)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Sofiag8&repo=holbertonschool-higher_level_programming&show_owner=true&layout=compact&theme=dark)](https://github.com/Sofiag8/holbertonschool-higher_level_programming)
