@@ -8,11 +8,9 @@
 
 
 <a href="https://github.com/Sofiag8/Sofiag8">
-  <img align="center" src="https://Sofiag8.vercel.app/api/pin/?username=Sofiag8&repo=Sofiag8" />
+  <img align="center" src="https://Sofiag8/api/pin/?username=Sofiag8&repo=Sofiag8" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://Sofiag8.app/api/pin/?username=Sofiag8&repo=convoychat" />
-</a>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sofiag8&theme=dark&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiag8&layout=compact&theme=dark)
