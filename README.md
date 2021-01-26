@@ -7,10 +7,6 @@
 - 📫 You can find me on [Twitter](https://twitter.com/Sofiiagarca) or [Linkedin](https://www.linkedin.com/in/dianasofiagarciac/)
 
 
-<a href="https://github.com/Sofiag8/Sofiag8">
-  <img align="center" src="https://Sofiag8/api/pin/?username=Sofiag8&repo=Sofiag8" />
-</a>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sofiag8&theme=dark&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiag8&layout=compact&theme=dark)
