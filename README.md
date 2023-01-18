@@ -4,4 +4,6 @@
 
 - 📫 You can find me on [Twitter](https://twitter.com/Sofiiagarca) or [Linkedin](https://www.linkedin.com/in/dianasofiagarciac/)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiag8&layout=compact&theme=dark)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiag8&hide=css,scss,html&theme=dark)
+
